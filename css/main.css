@@ -1,0 +1,19 @@
+body{
+    font-family: monospace;
+    line-height: 1.5em;
+    background-image: url("../snow_photo.JPG");
+    background-size: cover;
+    
+}
+#main_title{
+    color:hsl(0, 1%, 36%);
+    font-size: 3em;
+    text-align: center;
+    font-family: 'Homemade Apple', cursive;
+}
+h2{
+    color:rgb(139, 139, 139);
+    text-align: center;
+    font-size: 2rem;
+    font-family: 'Homemade Apple', cursive;
+}
